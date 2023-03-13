@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669832213 source:c:\users\asus\documents\codeblocks\gameprotype1\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+

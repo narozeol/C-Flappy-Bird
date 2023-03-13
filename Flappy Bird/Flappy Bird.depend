@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1671125139 source:c:\users\asus\documents\codeblocks\flappy bird\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1671200142 source:c:\users\asus\documents\codeblocks\the c program\gametest\flappy bird\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
